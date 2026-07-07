@@ -1,2 +1,1 @@
-# My Sample Website
-\nWebsite created for Git workflow practice
+# My Portfolio Website
