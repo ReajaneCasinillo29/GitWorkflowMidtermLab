@@ -2,3 +2,4 @@ h1 { color: #2563eb; }
 nav { padding: 10px; background: #f0f0f0; }
 a { margin: 0 8px; text-decoration: none; }
 ul { list-style: none; display: flex; gap: 1rem; }
+input { padding: 6px; margin: 5px 0; }
